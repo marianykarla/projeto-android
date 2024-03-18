@@ -33,7 +33,6 @@ body {
 
 a.externo:after {
     content: '\00A0\1F517';
-
 }
 
 header {
